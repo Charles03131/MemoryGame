@@ -1,0 +1,33 @@
+#game div {
+  border: 5px solid purple;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+  
+}
+
+#game{
+  background-color:yellowgreen;
+}
+
+#gametitle{
+  background-image:linear-gradient(aquamarine,yellow);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border:10px solid purple;
+  text-align:center;
+  font-size:30px;
+}
+
+#scores{
+  background-image:linear-gradient(yellow,aquamarine);
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 10px solid  aquamarine; 
+  text-align:center;
+  
+}
+
+.cardback{
+  background-image:-moz-radial-gradient(purple,pink);
+}
+
